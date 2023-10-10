@@ -20,5 +20,10 @@ This project was analzed and vizualized using Microsoft Excel to create a meanin
 
  # Data Transformation
  The kaggle csv file was imported into Microsoft Excel using power query to clean and transform the data. Tables which won't contribute to insights and recommendation needed at the end of this analysis were removed and they didn't by any chance have any negative effect on the result that would be derived.
+ 
  No mathematical operation was performed throught the analysis.
+
+ # Modelling
+ No modelling was required because all the data was contained in one excel sheet.
+
  
