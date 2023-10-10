@@ -35,6 +35,11 @@ This project was analzed and vizualized using Microsoft Excel to create a meanin
 ![image](https://github.com/BayoMoh/INDIA-SUICIDE-RATE-YEAR-2001-2012/assets/144594657/78ee4bba-1859-48b1-9ef9-9e530871b373)
 
 
+# Conclusions 
+No correlation can be achieved in terms of figure when checking all the highlighted visuals. There is no much difference in terms of year, age, gender and the likes which van be use to filter the increase in suicide rate.
+Recommendations and Insights are already attached to the dashboard above.
+
+
  
 
  
