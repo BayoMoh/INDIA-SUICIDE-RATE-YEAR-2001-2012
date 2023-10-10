@@ -16,7 +16,7 @@ This project was analzed and vizualized using Microsoft Excel to create a meanin
  
  • Filters
  
- • Vizualization
+ • Visualization
 
  # Data Transformation
  The kaggle csv file was imported into Microsoft Excel using power query to clean and transform the data. Tables which won't contribute to insights and recommendation needed at the end of this analysis were removed and they didn't by any chance have any negative effect on the result that would be derived.
@@ -25,5 +25,11 @@ This project was analzed and vizualized using Microsoft Excel to create a meanin
 
  # Modelling
  No modelling was required because all the data was contained in one excel sheet.
+
+ # Visualizations
+ This report comprises of 5 chart pages:
+ 1. Year
+
+ 
 
  
