@@ -28,7 +28,12 @@ This project was analzed and vizualized using Microsoft Excel to create a meanin
 
  # Visualizations
  This report comprises of 5 chart pages:
- 1. Year
+ 1. Yearly suicide rate trend from 2001-2012
+ 2. Top 10 states with the most suicide rate
+ 3. Major causes of suicide
+ 4. Age group Chart of both Gender
+![image](https://github.com/BayoMoh/INDIA-SUICIDE-RATE-YEAR-2001-2012/assets/144594657/78ee4bba-1859-48b1-9ef9-9e530871b373)
+
 
  
 
