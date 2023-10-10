@@ -9,13 +9,13 @@ This project was analzed and vizualized using Microsoft Excel to create a meanin
 4. Which gender and group age commit suicide the most?
 5. What is the most common type of suicide people commit?
 
- #Skills Demonstrated
+ # Skills Demonstrated
  • Data cleaning
  • Quick measure
  • Filters
  • Vizualization
 
- #Data Transformation
+ # Data Transformation
  The kaggle csv file was imported into Microsoft Excel using power query to clean and transform the data. Tables which won't contribute to insights and recommendation needed at the end of this analysis were removed and they didn't by any chance have any negative effect on the result that would be derived.
  No mathematical operation was performed throught the analysis.
  
