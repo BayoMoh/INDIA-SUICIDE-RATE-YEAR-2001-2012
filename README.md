@@ -11,8 +11,11 @@ This project was analzed and vizualized using Microsoft Excel to create a meanin
 
  # Skills Demonstrated
  • Data cleaning
+ 
  • Quick measure
+ 
  • Filters
+ 
  • Vizualization
 
  # Data Transformation
